@@ -1,0 +1,24 @@
+*{
+    margin: 1px;
+    padding: 1px;
+}
+h1{
+font-family: 'Times New Roman', Times, serif;
+}
+img{
+    border-radius: 50%;
+    justify-content: left;
+}
+p{
+    color: blue;
+}
+h2{
+    font-weight: bold;
+    color: black;
+}
+li{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background: blue;
+}
